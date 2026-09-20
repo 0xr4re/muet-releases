@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:muet="https://muet.app/licensing" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>muet</title>
+        <item>
+            <title>0.18.24</title>
+            <pubDate>Sun, 20 Sep 2026 17:19:50 GMT</pubDate>
+            <sparkle:version>209</sparkle:version>
+            <sparkle:shortVersionString>0.18.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# muet 0.18.24
+
+- Moves app updates to muet's signed public release feed, so future versions can be delivered automatically from GitHub.
+- Keeps the existing app identity, local meetings, preferences and permissions unchanged during the migration.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v0.18.24/muet-0.18.24-209.zip" length="42726348" type="application/octet-stream" sparkle:edSignature="GuQUEaLijUakBzuLIZrCUCiBDkrTB0AwpvuMZSrPBgU2yCBj3H06Ntx7aDfpjytxET4lq1SxTZXfVXbFaa8KCQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjA5IiwicmVsZWFzZWRBdCI6MTc4OTkyNDc5MH0=","signature":"O9cKllKGagmIhAnkrfaPVC4TOvFtuJwkpp4TCSQozz0iPgja6RCgPPF3JP2asTb3eXKdoo6IvORpqsJmyObQCg=="}</muet:release>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: SO/RiNFZOh5leGwgi0AOGJIRKEcoQrOh+zYeZgY+3InodFn4shbv/zHnk2P3O4bpT4FA+ceAdyo21mvu4WtpCw==
+length: 1746
+-->
