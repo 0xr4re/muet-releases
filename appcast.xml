@@ -4,18 +4,34 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 20 Sep 2026 23:35:35 GMT</pubDate>
+            <sparkle:version>212</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Launch at login by default
+
+- New installations now enable Launch muet at login on first launch.
+- The login toggle now lives only in Settings → General, keeping onboarding simpler.
+- Existing installations and changes made in macOS Login Items keep their current setting.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.2/muet-1.0.2-212.zip" length="42749499" type="application/octet-stream" sparkle:edSignature="FimwVaI8yI2H0Qr0rvzySN0MmT5v02Y47fMBc+nxag9BssF+I5AeNBWHJxfOQWiOkTAdazg0wlIU444phzPADQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjEyIiwicmVsZWFzZWRBdCI6MTc4OTk0NzMzNX0=","signature":"fVx/zCAGo7jYWPmviYismXbiKtT0G/nMB5q0Ziw8pH0WRU7qEty3s4JCCv/NVAiOlYpoeNJpqoz6ozpj0aGQAQ=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sun, 20 Sep 2026 23:03:06 GMT</pubDate>
             <sparkle:version>211</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Launch muet at login
+            <description sparkle:format="markdown">Launch muet at login
 
 - Choose Launch muet at login in Settings → General or during setup.
 - Login launches stay quietly in the menu bar; opening muet normally shows its window.
 - The setting follows macOS Login Items and explains when approval is needed.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.1/muet-1.0.1-211.zip" length="42750555" type="application/octet-stream" sparkle:edSignature="70lVZU6ne12982/A0Hqdf7HS5ZoNI56RmUSvnPHDxg8nuVxScYnURj/gGRti0dqNh4435CreHWQ3tDuF/JFLBw=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjExIiwicmVsZWFzZWRBdCI6MTc4OTk0NTM4Nn0=","signature":"jkShw/HNwqOlQFwHcxqMHJbvDEEhds8ha/4tS5sJ+UxrcQApzGkqzqYCOpslrK96Oa+nXliQTn1T/WEMjUHqDg=="}</muet:release>
         </item>
@@ -33,6 +49,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9SwDtiQ+p/E6rt/jCmNvndhPPxfmEc3VG4r13JL4YvETNNd80eradPGbldBDm6djpw6BgjLDr3Xsm0CizAukAg==
-length: 2761
+edSignature: xVEjJqUtLX4H/6Tfkfpgctc5m0CrnDcPbQ0PHkmLGNUSq63YWGGaAnSdPTOcXcvd6inZBAkIkqTuk1i6Z9UrBA==
+length: 4032
 -->
