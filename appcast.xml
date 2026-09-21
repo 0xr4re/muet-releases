@@ -4,17 +4,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Mon, 21 Sep 2026 19:21:57 GMT</pubDate>
+            <sparkle:version>222</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+- Improved recap generation continuity when action items repeat.
+- Consolidated duplicate action items while preserving supporting details.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.11/muet-1.0.11-222.zip" length="43003711" type="application/octet-stream" sparkle:edSignature="jqRVbHhHME/NiMCtSG0vXQuRr4dz79UOa46wfUQDwqnCjNm78p9Ty151JMYph8dgo1d8FYn2quRpI7TstSjSAg=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjIyIiwicmVsZWFzZWRBdCI6MTc5MDAxODUxN30=","signature":"SshCTsE7Y+76DbT3FqQ1J6JDTkrrwzDu5hvTXoY6AzP474TFylTbYkCMHxjFxbvcNGLgooFZ5sDVxr2bouDICA=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Mon, 21 Sep 2026 19:01:10 GMT</pubDate>
             <sparkle:version>221</sparkle:version>
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 - Improved diagnostics for interrupted recap generation.
 - More precise reporting to help investigate repetition-related recovery.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.10/muet-1.0.10-221.zip" length="43003292" type="application/octet-stream" sparkle:edSignature="81iiAbQaLxLDoPTnAGLL+lZXxshzwp0R/X2J21yFHhPjS11Mh9H7uDCQd2Mr3BiF3BIAZDnrTP3TQzEW8c1SCg=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjIxIiwicmVsZWFzZWRBdCI6MTc5MDAxNzI3MH0=","signature":"a+TvxW7zVX260N3QC1Rqqw+v9TOTnNia/+VlhAMjoSGRX+m7IwNVnrY0NQl6m/jmwOI81EjvTRrZUCdOD+jXAg=="}</muet:release>
         </item>
@@ -139,6 +154,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9zquh/IkBrF0+GL61KiO4NvNHojB0veEdOY4KAw4JSvFrR+FxVB8IB3RWmSiPMAzvSjuPYTXDdUEB03Ph+ZPBQ==
-length: 10618
+edSignature: EoY7MeJtILDHKPTY5O4sC5bkEEzIHH3kkg0NJ1s0Cai+AEaYqAHhQePFc8qjgApUPaTRBB8wqBQX93uvUW7LAw==
+length: 11791
 -->
