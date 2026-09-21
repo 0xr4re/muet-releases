@@ -4,16 +4,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Mon, 21 Sep 2026 13:29:10 GMT</pubDate>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Clearer meeting recaps
+
+- Follow each important topic with its own set of useful key points in Summary.
+- Get more detailed decisions, including agreed scope, conditions and rationale.
+- Recaps adapt to the depth of the discussion and preserve more context in longer meetings.
+- Jump from a topic to its supporting transcript passages.
+
+Regenerate an existing meeting's recap to apply these improvements.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.5/muet-1.0.5-216.zip" length="42929513" type="application/octet-stream" sparkle:edSignature="vHaXvcUl/TT611q2Yp2YBkVMM473D87SU05PziyVrhLy5AMwLO9R+/N1yS2ZOhZSh0Aqb/FEocrZvf+xsA9WAw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE2IiwicmVsZWFzZWRBdCI6MTc4OTk5NzM1MH0=","signature":"XWyva/sEhwyRydTy4XhTUaQVRjVNtQIJEzO7oPUYYcbqe1J8s8l1Wig3gwxI8VeVwBy2piXeZdUB11HQ+QgFDw=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Mon, 21 Sep 2026 11:14:27 GMT</pubDate>
             <sparkle:version>215</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# muet 1.0.4
+            <description sparkle:format="markdown"># muet 1.0.4
 
 Minor fixes for a smoother update experience. Automatic downloads are now enabled by default, and available updates are easier to install from Settings.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.4/muet-1.0.4-215.zip" length="42882718" type="application/octet-stream" sparkle:edSignature="yMGFntNDsXv0JupJnsMbGpslw/T5LlC36phL9X5WCWHQm31aePFDDF4xXg3m9kptzjYr9v2yJhjcLE7Xj0dkBA=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE1IiwicmVsZWFzZWRBdCI6MTc4OTk4OTI2N30=","signature":"fr+JTsWgMZsQKrb6EsDYwi81SVX1L9/uwG5uplft/JXM+2vcQVo9/x/5TV86cnkfQA14+CxxzP//oOuxBB2yCQ=="}</muet:release>
         </item>
@@ -33,6 +52,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zY5MQPYlDzvLuEbrgloLcShi5o8UQP1qjhiNl100Yze9Yi+C6lCKBcOKmMPY5J+xg1DNqwernWmc89UF98JzDw==
-length: 2758
+edSignature: tG/cxprcm3Z2o6GIlEvw54q5/E4witqQBCYjEe7JPKv+A1ZaPJJmcviF9ot6r4t0ag2XBw5StPF6ESL2M8grAg==
+length: 4161
 -->
