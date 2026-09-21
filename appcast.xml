@@ -4,51 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Sun, 20 Sep 2026 23:35:35 GMT</pubDate>
-            <sparkle:version>212</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Mon, 21 Sep 2026 09:59:01 GMT</pubDate>
+            <sparkle:version>214</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Launch at login by default
+            <description sparkle:format="markdown"><![CDATA[# muet 1.0.3
 
-- New installations now enable Launch muet at login on first launch.
-- The login toggle now lives only in Settings → General, keeping onboarding simpler.
-- Existing installations and changes made in macOS Login Items keep their current setting.
+Minor fixes and performance improvements for a smoother, more reliable meeting experience.
 ]]></description>
-            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.2/muet-1.0.2-212.zip" length="42749499" type="application/octet-stream" sparkle:edSignature="FimwVaI8yI2H0Qr0rvzySN0MmT5v02Y47fMBc+nxag9BssF+I5AeNBWHJxfOQWiOkTAdazg0wlIU444phzPADQ=="></enclosure>
-            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjEyIiwicmVsZWFzZWRBdCI6MTc4OTk0NzMzNX0=","signature":"fVx/zCAGo7jYWPmviYismXbiKtT0G/nMB5q0Ziw8pH0WRU7qEty3s4JCCv/NVAiOlYpoeNJpqoz6ozpj0aGQAQ=="}</muet:release>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sun, 20 Sep 2026 23:03:06 GMT</pubDate>
-            <sparkle:version>211</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown">Launch muet at login
-
-- Choose Launch muet at login in Settings → General or during setup.
-- Login launches stay quietly in the menu bar; opening muet normally shows its window.
-- The setting follows macOS Login Items and explains when approval is needed.
-</description>
-            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.1/muet-1.0.1-211.zip" length="42750555" type="application/octet-stream" sparkle:edSignature="70lVZU6ne12982/A0Hqdf7HS5ZoNI56RmUSvnPHDxg8nuVxScYnURj/gGRti0dqNh4435CreHWQ3tDuF/JFLBw=="></enclosure>
-            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjExIiwicmVsZWFzZWRBdCI6MTc4OTk0NTM4Nn0=","signature":"jkShw/HNwqOlQFwHcxqMHJbvDEEhds8ha/4tS5sJ+UxrcQApzGkqzqYCOpslrK96Oa+nXliQTn1T/WEMjUHqDg=="}</muet:release>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 20 Sep 2026 22:27:59 GMT</pubDate>
-            <sparkle:version>210</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown">Initial release.
-</description>
-            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.0/muet-1.0.0-210.zip" length="42732751" type="application/octet-stream" sparkle:edSignature="8bc3czYgoKWEzTjvv3Ccc30Q/1KrD4wrKN/NDjLILgUtNB6yvv7iPfJy9cAUNNgxvCMIAMU8diwdVelI9wrIAg=="></enclosure>
-            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjEwIiwicmVsZWFzZWRBdCI6MTc4OTk0MzI3OX0=","signature":"lH+gCyq19/kYZD3k9FFgWYCvivCZw3GEr6TZtRxOLEQwBBif1miPcFhKLdIQXsyZEhSyI980FfxwksKBm3kxDQ=="}</muet:release>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.3/muet-1.0.3-214.zip" length="42881791" type="application/octet-stream" sparkle:edSignature="pdVcFiS7YKVQ4cZP1FZZOUQvx8wr3hK3Zw/Ro1OWW/QJtHVTyNcdQ1/UrmUpw4Wkx2HFsw2HEHPtCdI1fx9lDQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE0IiwicmVsZWFzZWRBdCI6MTc4OTk4NDc0MX0=","signature":"NGOkdXB0zMSFHJKfV1Sqw+NTBxlYmzH23wsFfHj7XDnbKV6OwYsUggeGZBARF98nGSInCJrHik0AlRhOLB7ODQ=="}</muet:release>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xVEjJqUtLX4H/6Tfkfpgctc5m0CrnDcPbQ0PHkmLGNUSq63YWGGaAnSdPTOcXcvd6inZBAkIkqTuk1i6Z9UrBA==
-length: 4032
+edSignature: tpCFtjp1WzK8n5id9NBMdQM1hcJdsqyUqvfCWmuuyNc38L1wPWpwc4qYKNW1vKIqwf9Zolxpszq0EWY+d5RKCw==
+length: 1595
 -->
