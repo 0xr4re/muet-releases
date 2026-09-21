@@ -4,20 +4,39 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Mon, 21 Sep 2026 16:39:23 GMT</pubDate>
+            <sparkle:version>218</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+- More efficient recap generation with clearer topic summaries.
+- Improved handling of action items, decisions and open questions.
+- Live recap drafts as summaries are written.
+- Better recovery from interrupted or repetitive generation.
+
+Refresh a meeting’s recap to use these improvements. Your saved transcripts remain available.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.7/muet-1.0.7-218.zip" length="42978948" type="application/octet-stream" sparkle:edSignature="LgersA1G3pOkOjZB7W97EKX9ReKKpRo7/6+muUNwajinhj3ZtnJwhLHG5AtpeEeWV0HmUdrrrL5ufd1cCExxAQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE4IiwicmVsZWFzZWRBdCI6MTc5MDAwODc2M30=","signature":"MfgNfv5fnU7wDbtUGAjM36VWibIH5UlJ/C9lisaMosILqAkdPpUS09jMnyRUu8KHS7IKm068CQxpOoHrXjciDA=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Mon, 21 Sep 2026 15:14:24 GMT</pubDate>
             <sparkle:version>217</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 - More reliable generation of action items and meeting recaps.
 - Clearer live progress throughout generation, including retries.
 - Improved handling of longer discussions while retaining detailed topic summaries and decisions.
 
 Refresh a meeting’s recap to use these improvements. Your saved transcripts remain available.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.6/muet-1.0.6-217.zip" length="42967053" type="application/octet-stream" sparkle:edSignature="qBy0KfewN7XCssQ3vTU2aqpDs8z1XfJ64hBz4bGzlZGnjvoweBj5w1o7mCvZGLVw2jZxpX8T0kusyEg5fxi4BQ=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE3IiwicmVsZWFzZWRBdCI6MTc5MDAwMzY2NH0=","signature":"TbT71RcS11ob5QI8pOXvMmk0TcjX4WyjEdcbULaMa9G409YZ7C63UpJdwfvrJ5rnQR4xQ7m6ACtSNA0D6T4pCA=="}</muet:release>
         </item>
@@ -70,6 +89,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: U7ffR5b8pVFy9gmIyfs1QfLLJyHUw30ZXXry8AyRlAxb6PqgPNxo6sWXw9FCc5LXcQmMW5PBMWFd7h0oBUP4Dg==
-length: 5514
+edSignature: r+NIEtB8MjZPQS19c4aigAiVuCltM/CAzoA9bneyhFPMAnyNAqLfqgV8K6XSvENViHWM4+JnfPweG34XcVbDCA==
+length: 6878
 -->
