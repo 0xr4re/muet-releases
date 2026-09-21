@@ -4,18 +4,34 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.14</title>
+            <pubDate>Mon, 21 Sep 2026 20:49:14 GMT</pubDate>
+            <sparkle:version>225</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+- Restored individual section recovery for interrupted recaps.
+- Restored earlier detection of repeated action items.
+- Retained detailed generation diagnostics.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.14/muet-1.0.14-225.zip" length="43015685" type="application/octet-stream" sparkle:edSignature="Xjibbo4K/DgE5F44droRpTc5lCC/X9Y5+xEuav7ArDw4qC481VYbzHBxlnlpnAjhxZNtKr3LJd9b3b2xPMqfCw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjI1IiwicmVsZWFzZWRBdCI6MTc5MDAyMzc1NH0=","signature":"TAikJoXbtt4bLn17/b5V4fwmZSFqGAUGBrfe3vLLpxhzrOxoJERaBRvnSrW4ryIUczyGBrfWaPhfQfSX1OhdBA=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.13</title>
             <pubDate>Mon, 21 Sep 2026 20:24:21 GMT</pubDate>
             <sparkle:version>224</sparkle:version>
             <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 - Improved recovery when recap generation encounters repeated action items.
 - Preserved extracted actions while completing remaining meeting sections together.
 - Improved diagnostics for interrupted recap generation.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.13/muet-1.0.13-224.zip" length="43012604" type="application/octet-stream" sparkle:edSignature="AuJOrNE2UhaL2Eojo3dWgbTQicz/9uWkPG/oMTJsjTTvqsqwQVBJG2TmkFl0AD0RbpcmE+hShGE2iJgSyn4MCw=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjI0IiwicmVsZWFzZWRBdCI6MTc5MDAyMjI2MX0=","signature":"wv14LmSyNDkZiPseaGvLAmi5V5Xcv0xfT8Ids/LLosIItOI7DxoQeKxLzsbCPk4JSH548PDROTEPyyLv/tixDA=="}</muet:release>
         </item>
@@ -185,6 +201,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0KCUJx21jG/wVJ+eLMYwZoT8DnDEapWWhc/ISmh3uSS/VS1yEPUh3s9ywjWm41oeKzGXUQOegx5tx42zd0/1Ag==
-length: 14213
+edSignature: SMFQLyxRRAYvT2HWMvLAq5wdmBC4mo+1ZV7Fx7ovtRQ7/Xqg3Sy5kIIyJapU/H9hxDRCV653h15LDniCWykoAw==
+length: 15408
 -->
