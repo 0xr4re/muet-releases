@@ -4,20 +4,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Mon, 21 Sep 2026 19:01:10 GMT</pubDate>
+            <sparkle:version>221</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+- Improved diagnostics for interrupted recap generation.
+- More precise reporting to help investigate repetition-related recovery.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.10/muet-1.0.10-221.zip" length="43003292" type="application/octet-stream" sparkle:edSignature="81iiAbQaLxLDoPTnAGLL+lZXxshzwp0R/X2J21yFHhPjS11Mh9H7uDCQd2Mr3BiF3BIAZDnrTP3TQzEW8c1SCg=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjIxIiwicmVsZWFzZWRBdCI6MTc5MDAxNzI3MH0=","signature":"a+TvxW7zVX260N3QC1Rqqw+v9TOTnNia/+VlhAMjoSGRX+m7IwNVnrY0NQl6m/jmwOI81EjvTRrZUCdOD+jXAg=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Mon, 21 Sep 2026 18:21:10 GMT</pubDate>
             <sparkle:version>220</sparkle:version>
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 - Improved recovery for complex meetings and longer recaps.
 - Completed sections remain available if another section cannot finish.
 - Clearer progress and notices for incomplete recap sections.
 
 Refresh a meeting’s recap to use these improvements. Your saved transcripts remain available.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.9/muet-1.0.9-220.zip" length="42994761" type="application/octet-stream" sparkle:edSignature="qoZI7JK+Z52ochSZa3p8esKNp5Ay7NFJm2AXERgw/zgamyEaecv9QXp6ngEl0SY/9vyT1UXFwgAMtYRqdJSJBA=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjIwIiwicmVsZWFzZWRBdCI6MTc5MDAxNDg3MH0=","signature":"MlZtTle51LGhEhWh70a7j4W2Lp3RvQkZnUdiVw8q0mg6C/qdz7rA6sSNu3LloCRSpw1lAeNPcRnDC5mPOmApDQ=="}</muet:release>
         </item>
@@ -124,6 +139,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: D1aY7C/KQOq//4Wd+Pas+ImXMBTsZr3Nipb+/z28XcPbCJxLBPRnl982TXEREsI/eabjtiNmiyDpqZiL7T7uDQ==
-length: 9454
+edSignature: 9zquh/IkBrF0+GL61KiO4NvNHojB0veEdOY4KAw4JSvFrR+FxVB8IB3RWmSiPMAzvSjuPYTXDdUEB03Ph+ZPBQ==
+length: 10618
 -->
