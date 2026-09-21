@@ -4,21 +4,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Mon, 21 Sep 2026 11:14:27 GMT</pubDate>
+            <sparkle:version>215</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# muet 1.0.4
+
+Minor fixes for a smoother update experience. Automatic downloads are now enabled by default, and available updates are easier to install from Settings.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.4/muet-1.0.4-215.zip" length="42882718" type="application/octet-stream" sparkle:edSignature="yMGFntNDsXv0JupJnsMbGpslw/T5LlC36phL9X5WCWHQm31aePFDDF4xXg3m9kptzjYr9v2yJhjcLE7Xj0dkBA=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE1IiwicmVsZWFzZWRBdCI6MTc4OTk4OTI2N30=","signature":"fr+JTsWgMZsQKrb6EsDYwi81SVX1L9/uwG5uplft/JXM+2vcQVo9/x/5TV86cnkfQA14+CxxzP//oOuxBB2yCQ=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Mon, 21 Sep 2026 09:59:01 GMT</pubDate>
             <sparkle:version>214</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# muet 1.0.3
+            <description sparkle:format="markdown"># muet 1.0.3
 
 Minor fixes and performance improvements for a smoother, more reliable meeting experience.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.3/muet-1.0.3-214.zip" length="42881791" type="application/octet-stream" sparkle:edSignature="pdVcFiS7YKVQ4cZP1FZZOUQvx8wr3hK3Zw/Ro1OWW/QJtHVTyNcdQ1/UrmUpw4Wkx2HFsw2HEHPtCdI1fx9lDQ=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjE0IiwicmVsZWFzZWRBdCI6MTc4OTk4NDc0MX0=","signature":"NGOkdXB0zMSFHJKfV1Sqw+NTBxlYmzH23wsFfHj7XDnbKV6OwYsUggeGZBARF98nGSInCJrHik0AlRhOLB7ODQ=="}</muet:release>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tpCFtjp1WzK8n5id9NBMdQM1hcJdsqyUqvfCWmuuyNc38L1wPWpwc4qYKNW1vKIqwf9Zolxpszq0EWY+d5RKCw==
-length: 1595
+edSignature: zY5MQPYlDzvLuEbrgloLcShi5o8UQP1qjhiNl100Yze9Yi+C6lCKBcOKmMPY5J+xg1DNqwernWmc89UF98JzDw==
+length: 2758
 -->
