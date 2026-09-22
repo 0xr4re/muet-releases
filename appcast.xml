@@ -4,16 +4,72 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.16</title>
+            <pubDate>Tue, 22 Sep 2026 01:34:10 GMT</pubDate>
+            <sparkle:version>233</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+Recaps now focus on the most important meeting topics, consolidate repeated points, keep source references out of the written notes, and handle review results more clearly.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.16/muet-1.0.16-233.zip" length="43074004" type="application/octet-stream" sparkle:edSignature="uO96v4cgUbpXOv6bU9GIyvagLA0XSn04wuBen+riAXH2JgASHuhzfzVoaEtQJeAiJimj8sExJFCOHWHsSgbdAQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjMzIiwicmVsZWFzZWRBdCI6MTc5MDA0MDg1MH0=","signature":"Wert7/POXHjqvT5KL+4WS8c91jMUaWXnJnBc9ng5og9Ndd+LDG9CmUndJkS4o2avzdpukvXBLF4gTVq0ii2oBQ=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.18</title>
+            <pubDate>Tue, 22 Sep 2026 01:27:05 GMT</pubDate>
+            <sparkle:version>232</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Recap generation improvements
+
+Recaps now keep transcript evidence references behind source controls and no longer show a review warning when the complete first-pass recap was saved successfully.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.18/muet-1.0.18-232.zip" length="43073932" type="application/octet-stream" sparkle:edSignature="m4F4ar2wW2rxSm7hecQkMOBmSpQ9JO3YnIw5tXYAf1IeypA1mQgNcwzm7HF5ZbZiOjsFf/YWoGBoWV1IuE4QDw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjMyIiwicmVsZWFzZWRBdCI6MTc5MDA0MDQyNX0=","signature":"ZT62LGuQaCAhtjFDqV6o4/l/QUtCI+X5gFR/LtDa1ij51ckw9kcnWcj31izNk0sKgY5aRixAGgShOTrOiNeTDA=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.17</title>
+            <pubDate>Tue, 22 Sep 2026 01:20:53 GMT</pubDate>
+            <sparkle:version>231</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Recap generation improvements
+
+Recaps now keep transcript evidence references behind the source controls instead of displaying internal turn IDs in the written notes.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.17/muet-1.0.17-231.zip" length="43074005" type="application/octet-stream" sparkle:edSignature="sMwt8QqIV3kfTbFi3BqFi+BaoxCsJx84X7SxJsM50XTKW0dNgQJhOGiEuge6Urv+0FGAGQ/TQ4vck3eFxdfKDA=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjMxIiwicmVsZWFzZWRBdCI6MTc5MDA0MDA1M30=","signature":"JQFn4IhPlyS5NmODyVxm9anLr3W4mIBd+NRVyCAmYYGqMuBKlzy9OZIAWBQLmxo4o23zvazAsY+I1CM2en6sBQ=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.16</title>
+            <pubDate>Tue, 22 Sep 2026 00:42:37 GMT</pubDate>
+            <sparkle:version>230</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Recap generation improvements
+
+Recaps now consolidate reworded subjects, focus on major discussion areas, and keep minor observations inside the relevant topic instead of producing excessive key-point sections.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.16/muet-1.0.16-230.zip" length="43070981" type="application/octet-stream" sparkle:edSignature="8VU7iSBxMoCr3waX4PMc7K2S+UQKRAKHhA2wx7F3UfbhNq+LhiiMIfB2ImMKFbFp6vFH5ZNifpVD8DBNsSHtCg=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjMwIiwicmVsZWFzZWRBdCI6MTc5MDAzNzc1N30=","signature":"9Suj0umbXFIEikRju6HIiZTOuI4epRVejWJofQ+XvlQlU8EMxSoaS+O3mPF5bL2EYjX12Ib+frUeuJtF9UuGBw=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.15</title>
             <pubDate>Tue, 22 Sep 2026 00:05:12 GMT</pubDate>
             <sparkle:version>229</sparkle:version>
             <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 Faster recap generation with a streamlined writing and review process, improved handling of repeated action items, and clearer progress. Longer meetings are processed in parts, and completed notes are preserved if the final review cannot finish. Refined notices keep attention on issues that need it.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.15/muet-1.0.15-229.zip" length="43064008" type="application/octet-stream" sparkle:edSignature="F+y5xN5hqBqmOS8w5XJKEbcome/FOdA19HBItQ0ZYUSeTP3vkJ4X5mhMtushqf4Oy5Uc0nJYHngy75dlvEVhDg=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjI5IiwicmVsZWFzZWRBdCI6MTc5MDAzNTUxMn0=","signature":"V9Bdlc6UyYajt0L/ehfUA1VZXmQfNVMVm0Dd1r2a4YqQmtDt1JS9KzkG5AGwi67lp6I5IXBq7exmTh2SNqYODw=="}</muet:release>
         </item>
@@ -215,6 +271,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xoOQ/hw/1N4tEGkDtIAOpw1tBZp3qvLE8PbM2TromC9gLsaz3ny3Kn+htyRmAgjp/gTJZ6b9tP2U/omjCZDgDw==
-length: 16742
+edSignature: KOBKOCH97bNHaLRCOi40GWEi79hMCnvKstEvFKO3O2KJRgyfBu6WAUz5GiPKSOeEtLqnvkeGsHy5tTZ8pU4EDw==
+length: 21528
 -->
