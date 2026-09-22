@@ -4,16 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.17</title>
+            <pubDate>Tue, 22 Sep 2026 08:49:17 GMT</pubDate>
+            <sparkle:version>234</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+Recaps now focus action items on meaningful assigned work and retain only material questions that remain unresolved at the end of the meeting.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.17/muet-1.0.17-234.zip" length="43069619" type="application/octet-stream" sparkle:edSignature="sJH+xQwolD9KQqCzHnDu30tijOrsrbXd2sTKBSKR/sSLVxYRT6U+Uy71ytFW4wEtbr3ifZvYeFkjhjQrAApSBw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM0IiwicmVsZWFzZWRBdCI6MTc5MDA2Njk1N30=","signature":"L5gxSfv3f/tMb5JDeyrhOYbwfNHsnwOS0HJZ06lFJXF6ddwoSVRmEtyzj0Jw1MxhFrw6REsOEq1v/fe41EqhBA=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.16</title>
             <pubDate>Tue, 22 Sep 2026 01:34:10 GMT</pubDate>
             <sparkle:version>233</sparkle:version>
             <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 Recaps now focus on the most important meeting topics, consolidate repeated points, keep source references out of the written notes, and handle review results more clearly.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.16/muet-1.0.16-233.zip" length="43074004" type="application/octet-stream" sparkle:edSignature="uO96v4cgUbpXOv6bU9GIyvagLA0XSn04wuBen+riAXH2JgASHuhzfzVoaEtQJeAiJimj8sExJFCOHWHsSgbdAQ=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjMzIiwicmVsZWFzZWRBdCI6MTc5MDA0MDg1MH0=","signature":"Wert7/POXHjqvT5KL+4WS8c91jMUaWXnJnBc9ng5og9Ndd+LDG9CmUndJkS4o2avzdpukvXBLF4gTVq0ii2oBQ=="}</muet:release>
         </item>
@@ -271,6 +285,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KOBKOCH97bNHaLRCOi40GWEi79hMCnvKstEvFKO3O2KJRgyfBu6WAUz5GiPKSOeEtLqnvkeGsHy5tTZ8pU4EDw==
-length: 21528
+edSignature: Gd0GpPO3yXtAmCEfcxJ2T4LoxiS86xKaow5Lgfub+4yhGVhuLhFh5+W+NWUvtETPyW6CiCjtkFY7KkiDanrtBQ==
+length: 22704
 -->
