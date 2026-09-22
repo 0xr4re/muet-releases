@@ -4,16 +4,86 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.23</title>
+            <pubDate>Tue, 22 Sep 2026 16:53:56 GMT</pubDate>
+            <sparkle:version>240</sparkle:version>
+            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+
+Recaps now review the complete meeting context to capture decisions more reliably, keep action items focused on real work, and remove reworded duplicates.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.23/muet-1.0.23-240.zip" length="43062105" type="application/octet-stream" sparkle:edSignature="WSxlHbepLYAtbOTnLdxTvFPpSDGc3LytKJ3aJj5+qwJvu5+dX/u2LkAS6B3gfuEtJxhafsEjYEe4nU60Ii/6Dw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjQwIiwicmVsZWFzZWRBdCI6MTc5MDA5NjAzNn0=","signature":"5TMzvMOKyJwPla4stdThhdK2BGgT6cnrbaQZNKCberxckqOAFauvPgIf7WkDsL9mMJzqhPC7vAn/+v78nHmZDw=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.22</title>
+            <pubDate>Tue, 22 Sep 2026 15:28:45 GMT</pubDate>
+            <sparkle:version>239</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Restore the original recap summary
+
+This update removes direct editing from the recap Summary and restores its previous read-only presentation and controls.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.22/muet-1.0.22-239.zip" length="43059336" type="application/octet-stream" sparkle:edSignature="v2AIiswEgxsKI4/Y+9DSRVC0WZtjBL9rUXZM5n5EovqqWWJQGFbEoWCN2x5aysrstqSAe1DaJwMaDFDnQm4qBQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM5IiwicmVsZWFzZWRBdCI6MTc5MDA5MDkyNX0=","signature":"w2cOJrnMeYdaOg6I2iqm/J8r2WhB68FcGErcO1/i7n/y6WWiiDE72VVBpiWNsGXSQCmeaunH8XrT6vQXLP8ECg=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.21</title>
+            <pubDate>Tue, 22 Sep 2026 15:17:06 GMT</pubDate>
+            <sparkle:version>238</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Edit recaps like a text outline
+
+Meeting summaries now behave like a native text outline while keeping their structured recap data. Press Return on a title or key point to create the next key point, select freely across the whole summary, and use Delete to remove one item, several items, or an entire key-point block. Changes save automatically one second after you stop typing.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.21/muet-1.0.21-238.zip" length="43077732" type="application/octet-stream" sparkle:edSignature="1idAXG1JejiAOX4nf8xpjpiA/kigipL4t4SvlSzw34Fv1OAypQ+h7vA0HkesP0LTAQd1GxcFWbll8ueBBDKvCQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM4IiwicmVsZWFzZWRBdCI6MTc5MDA5MDIyNn0=","signature":"7wnk4B1KsVuwY5hnYXIJGwAdoI3HMerVnvyiv5yiYuFuXVZcV4mrKwYcG68YIzWTliWOS90Ez05cyrAbfGtzDA=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.20</title>
+            <pubDate>Tue, 22 Sep 2026 14:51:29 GMT</pubDate>
+            <sparkle:version>237</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Select and edit the whole summary
+
+Meeting summaries now behave as one native text surface: the normal text cursor appears anywhere in the recap, and you can select continuously across the overview, topic titles, and key points. The existing title-and-bullet styling stays intact while edits save automatically one second after you stop typing.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.20/muet-1.0.20-237.zip" length="43066503" type="application/octet-stream" sparkle:edSignature="YWklyRbOTjs4lhEsnmV6GGv/xmYGvUQHPYX+8UwZSazdW19vK4WEBHOeZlqKbcUEAJNCEUoZZjkikBDQQVbDCA=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM3IiwicmVsZWFzZWRBdCI6MTc5MDA4ODY4OX0=","signature":"115A1Wa8TVk5sdOL20SSN7RXuNA2oTLwqKwRRCv+YEUtNXEJ7petwD7kDYDE0xqa19+gtuaRCHpvVWM6cZvRAw=="}</muet:release>
+        </item>
+        <item>
+            <title>1.0.19</title>
+            <pubDate>Tue, 22 Sep 2026 14:24:37 GMT</pubDate>
+            <sparkle:version>236</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"># Edit recaps like notes
+
+Meeting summaries are now always ready to edit. Click into the overview, any topic title, or any key point and type without switching into an edit mode; the existing recap styling stays in place and changes save automatically after a brief pause.
+</description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.19/muet-1.0.19-236.zip" length="43069794" type="application/octet-stream" sparkle:edSignature="vFI1zEa1jjOdF7L+3IM8hrIa2DPXuPpZgXC9F42E8/9EcXmX+Q7Ju6lNCzizRW8jxRbKMvqjhjjBASRF3nqSCw=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM2IiwicmVsZWFzZWRBdCI6MTc5MDA4NzA3N30=","signature":"dZxPvb8bQ2n53bFD823ekpfoE5j+zlzCMlm9UcqCub7i5b2KRSmtxZZ4XpbTQRVT4hrTK6xq0/5HTgr1loJeAA=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.18</title>
             <pubDate>Tue, 22 Sep 2026 13:55:01 GMT</pubDate>
             <sparkle:version>235</sparkle:version>
             <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 Recaps now keep transcript evidence references behind source controls and no longer show a review warning when the complete first-pass recap was saved successfully.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.18/muet-1.0.18-235.zip" length="43059341" type="application/octet-stream" sparkle:edSignature="Pz6PRVZ9ksBeDVLzzAMs6JqJZ+OTqEYh8gtFKRZ0bAKveBGC7d4WSbhWnXG2OjBKI6sflwt2osVgo9WESjOyBA=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjM1IiwicmVsZWFzZWRBdCI6MTc5MDA4NTMwMX0=","signature":"UuQwgQZ6NM+D4aeSlbX0X7M3p6v+HE9vlgz845rsg/5sRfEy7rSp4Ws0lw0QBAzUf+/N03xNdmNxJ3ULmiW6Dw=="}</muet:release>
         </item>
@@ -299,6 +369,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WWAcdS0Fk/wP8SPbOq9zRkqqKe7p1kzlmHqlIp7BAdumPIKaGDIVg9O6b05FGHUe8GT0V50MwnjG3bAD9cFkAw==
-length: 23902
+edSignature: ITfcZI3wu+yvAKuxc15LcO9MxBwOdTCFFpDem9GPc3eIbSp/SWQJGYuRU7P1QWkGWvKvgf0R23HC+aur12s+Cg==
+length: 30251
 -->
