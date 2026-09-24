@@ -4,16 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.40</title>
+            <pubDate>Thu, 24 Sep 2026 14:25:50 GMT</pubDate>
+            <sparkle:version>257</sparkle:version>
+            <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Clearer key points
+
+Key points are refined into more complete, business-ready sentences, with related updates combined where the source supports it. The summary and action items remain unchanged.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.40/muet-1.0.40-257.zip" length="43118686" type="application/octet-stream" sparkle:edSignature="KNwinCwMllBrVqMv92rUerQ8Y4nBFv4ItInur5AeLNDSRaZZzf3p8KYSe2bCKmGLVJ9XsbU6R3oFNLYpiATuAQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU3IiwicmVsZWFzZWRBdCI6MTc5MDI1OTk1MH0=","signature":"8MkCrC5LzVhu1g5u0pmd/TmMUvCNgclWyB8c5yvAFbpsvSH9zlQRZmL5JoPAyrZdNYYtevVQ56auKxKD3ShWBQ=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.39</title>
             <pubDate>Thu, 24 Sep 2026 11:57:48 GMT</pubDate>
             <sparkle:version>256</sparkle:version>
             <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Minor improvements
+            <description sparkle:format="markdown"># Minor improvements
 
 The meeting player now appears only on the Transcript page, keeping Recap and My notes clear. App updates can also reach you after your free trial ends, so fixes remain available while a licence is required to use meeting features.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.39/muet-1.0.39-256.zip" length="43098944" type="application/octet-stream" sparkle:edSignature="BBCBkCEKNSn29ArxQ8K8TbsaJRnMiAQOEtTxhrCGzEGSwY0p8brVSKjC6qUr3SatFC5noBUCsko5uB3J8qcdBQ=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU2IiwicmVsZWFzZWRBdCI6MTc5MDI1MTA2OH0=","signature":"HL9a1fOhjkhVkpQ+ZaF+qDazW4Q9NNeh1sfH5n5JJ627gzfcTEur9AYqNZX3h4A4bJw9OY1dWT1VwAGajy/SBg=="}</muet:release>
         </item>
@@ -411,6 +425,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IKBaNJ14A5wQl3Jw25oB0H8v2+v0AdnY/IeXPYYWw5vblUuNAsUa9V9EN9X/3mPx5DnEayNZPood/aGoQJaMAw==
-length: 33875
+edSignature: cOlDj8ofyXTRxfV2JSEcptYTy10x9RfBoZL91KUdex+4PEqhKPpTRJpdM++aa45ulnl2+8Iwcj8g9/bwUa+MBw==
+length: 35073
 -->
