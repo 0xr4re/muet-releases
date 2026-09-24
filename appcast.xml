@@ -4,16 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.39</title>
+            <pubDate>Thu, 24 Sep 2026 11:57:48 GMT</pubDate>
+            <sparkle:version>256</sparkle:version>
+            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Minor improvements
+
+The meeting player now appears only on the Transcript page, keeping Recap and My notes clear. App updates can also reach you after your free trial ends, so fixes remain available while a licence is required to use meeting features.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.39/muet-1.0.39-256.zip" length="43098944" type="application/octet-stream" sparkle:edSignature="BBCBkCEKNSn29ArxQ8K8TbsaJRnMiAQOEtTxhrCGzEGSwY0p8brVSKjC6qUr3SatFC5noBUCsko5uB3J8qcdBQ=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU2IiwicmVsZWFzZWRBdCI6MTc5MDI1MTA2OH0=","signature":"HL9a1fOhjkhVkpQ+ZaF+qDazW4Q9NNeh1sfH5n5JJ627gzfcTEur9AYqNZX3h4A4bJw9OY1dWT1VwAGajy/SBg=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.37</title>
             <pubDate>Thu, 24 Sep 2026 08:44:30 GMT</pubDate>
             <sparkle:version>254</sparkle:version>
             <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Cleaner summary controls
+            <description sparkle:format="markdown"># Cleaner summary controls
 
 Removed the copy button from the Summary heading. Copy controls remain available for action items and in the meeting tab bar.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.37/muet-1.0.37-254.zip" length="43096708" type="application/octet-stream" sparkle:edSignature="qw/5eV+IqNtvLDelt8y6v1w6CKadkLo7prMmYqhL2ldMUklXKux+WPFhcNjlKBsmiUF1JJz3WMUHEf1HR1FQCA=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU0IiwicmVsZWFzZWRBdCI6MTc5MDIzOTQ3MH0=","signature":"+V16mXUJFN8Arlh3XOqtGCuKfmeRV3Qa+Mt+tzVQK1KAJniPlo05tNk4nHH7v8JQe3KnJ2Oep1DnCICxsJ/GAQ=="}</muet:release>
         </item>
@@ -397,6 +411,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GYR4qoefDCnTIPlbgBCveupaUeZGZbeXdluywrhUJWWWTpkcG3X14sCRBBP5KBgDQFjFspHuhn+LGcJ1JebbAw==
-length: 32621
+edSignature: IKBaNJ14A5wQl3Jw25oB0H8v2+v0AdnY/IeXPYYWw5vblUuNAsUa9V9EN9X/3mPx5DnEayNZPood/aGoQJaMAw==
+length: 33875
 -->
