@@ -4,16 +4,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.37</title>
+            <pubDate>Thu, 24 Sep 2026 08:44:30 GMT</pubDate>
+            <sparkle:version>254</sparkle:version>
+            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Cleaner summary controls
+
+Removed the copy button from the Summary heading. Copy controls remain available for action items and in the meeting tab bar.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.37/muet-1.0.37-254.zip" length="43096708" type="application/octet-stream" sparkle:edSignature="qw/5eV+IqNtvLDelt8y6v1w6CKadkLo7prMmYqhL2ldMUklXKux+WPFhcNjlKBsmiUF1JJz3WMUHEf1HR1FQCA=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU0IiwicmVsZWFzZWRBdCI6MTc5MDIzOTQ3MH0=","signature":"+V16mXUJFN8Arlh3XOqtGCuKfmeRV3Qa+Mt+tzVQK1KAJniPlo05tNk4nHH7v8JQe3KnJ2Oep1DnCICxsJ/GAQ=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.27</title>
             <pubDate>Wed, 23 Sep 2026 19:09:42 GMT</pubDate>
             <sparkle:version>244</sparkle:version>
             <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Recap generation improvements
+            <description sparkle:format="markdown"># Recap generation improvements
 
 Recaps focus on the meeting's most important points and review action items more carefully against the conversation. The simpler summary, key points, and action items layout remains.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.27/muet-1.0.27-244.zip" length="43067877" type="application/octet-stream" sparkle:edSignature="TJDpq/OJVG/sRmHceHbXryDMwjtOXyaesuT410e3pQ243Tq3l5L7+zfEY1EVtZ2fv6BPQymFIVgd+sUoumVhAw=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjQ0IiwicmVsZWFzZWRBdCI6MTc5MDE5MDU4Mn0=","signature":"cqmuvJlx54NPPW3PBFMwqvDpardpTkxKo8daXWdMlQ0lyeb6T5mJkMuol1Bl34Zy7+N9Mmi/ns3OyIB2SluJCw=="}</muet:release>
         </item>
@@ -383,6 +397,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9ghVWGL3YsqEWj2RTaIodG0aPSmwcKYj+rqsLlGnJq0Ya9sP/XArjvitqdtdTSwjlDbZSS/siIQtnW9ZpHIFAw==
-length: 31467
+edSignature: GYR4qoefDCnTIPlbgBCveupaUeZGZbeXdluywrhUJWWWTpkcG3X14sCRBBP5KBgDQFjFspHuhn+LGcJ1JebbAw==
+length: 32621
 -->
