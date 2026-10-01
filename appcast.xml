@@ -4,16 +4,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>muet</title>
         <item>
+            <title>1.0.43</title>
+            <pubDate>Thu, 01 Oct 2026 08:16:22 GMT</pubDate>
+            <sparkle:version>260</sparkle:version>
+            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Improved echo removal
+
+Clearer recordings when you meet without headphones. muet now reduces speaker echo picked up by your microphone after each meeting, helping reduce repeated speech in transcripts.
+
+This update also improves saved audio quality and silences confidently detected echo-only sections with smooth transitions. The improvements also apply when you regenerate a saved meeting's transcript.
+]]></description>
+            <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.43/muet-1.0.43-260.zip" length="43655487" type="application/octet-stream" sparkle:edSignature="ogiu+R5Y9fy662DvPamHQ04Srj6ubUs2xXXPdHIbOeQjXo5c3gXgoiWJcdsnE46ngQp/atgGEv0lu+VxZ3nGCg=="></enclosure>
+            <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjYwIiwicmVsZWFzZWRBdCI6MTc5MDg0MjU4Mn0=","signature":"xmMqI8ltqkjRznTOgC9k5jfc+k/YrVU9GhbCFkdTkeAAcBqGrNLAJ3XVF9HV+O4RNS9n7fzIchDRQnIMFzKtDQ=="}</muet:release>
+        </item>
+        <item>
             <title>1.0.42</title>
             <pubDate>Thu, 24 Sep 2026 17:24:06 GMT</pubDate>
             <sparkle:version>259</sparkle:version>
             <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Clearer meeting transcripts
+            <description sparkle:format="markdown"># Clearer meeting transcripts
 
 muet keeps brief meeting-audio speech out of “Me” bubbles, removes short playback echoes from the microphone transcript, and places interruptions between your words when another person speaks. These improvements also apply when you refresh a saved transcript.
-]]></description>
+</description>
             <enclosure url="https://github.com/0xr4re/muet-releases/releases/download/v1.0.42/muet-1.0.42-259.zip" length="43130929" type="application/octet-stream" sparkle:edSignature="ts4er6QIGkAbaE/sWICI8eOAtRMBsYveC3Q+A/AP4dTyrX5Qny4ShKhA9oCrxRjqgNmgIwRSvSml09dg4E5yCA=="></enclosure>
             <muet:release>{"payload":"eyJraW5kIjoicmVsZWFzZSIsImJ1aWxkIjoiMjU5IiwicmVsZWFzZWRBdCI6MTc5MDI3MDY0Nn0=","signature":"unozUvzhEkzfajK+V4Smy/sUjPoTWTWehUmZ6fc0j+DC0RWK0r1ijwo8lCsvmObUNdkzFUTPNeTqFfCWdCrhCA=="}</muet:release>
         </item>
@@ -439,6 +455,6 @@ Minor fixes and performance improvements for a smoother, more reliable meeting e
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NLijDNEAvU/WWYCLRGLByLgfOSsE2ApJvK/i8yxmKJezI4Nueowq2+KKxjoSdK237caozC734dFbmYkmMHEbCg==
-length: 36368
+edSignature: ast78pebzcWBQp5imNNWKDoWPCSSawCR2TndrJJErLw+AIJryTB6pyFFtum+xAaXyQW6clYeQXQa4xa6QaNWBw==
+length: 37775
 -->
